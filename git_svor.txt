@@ -1,0 +1,45 @@
+﻿#Git spurningar og svör
+
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd	= change directory 
+	cd ~ = Goes to home directory
+	ls = list working directory
+	pwd = print working directory
+	mkdir = make directory
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone = Clone a repository into new directory / afritar geymslu
+	git log = Sees all logs / sjá allar skráningar.
+	git status = Shows the working tree status.
+	git diff = Shows changes on commits, commit and working tree etc.
+	git checkout = Switches branches or restore working tree files
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff = Shows changes on commits, commit and working tree etc.
+	b) git diff --staged = Changes between the index and your last commit
+	c) git diff commit1 commit2 = Compare the version between commits
+
+
+4. 	Hvað er útgáfustýring (e.version control)? 
+	Version control er kerfi sem tekur upp breytingar í skrám svo að þú getur farið yfir þær seinna.
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+	Það er léttara að vinna með vinnufélögum vegna þess að þú sérð hvað þeir breyttu og þar geta fólk ekki afritað vinnuna þína óvart. Allir eru með sitt eigið vinnusvæði og er betra til þess að vinna í.
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+	Þegar þú ert búinn að gera einhverja breytingu í skrám svo að vinnufélagarnir eru með nýjasta afritun (eftir að þú ert búinn að gera git add).
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í
+	GIT?
+	"Working directory" er mappan sem git er að vinna í á stundinni.
+	"Staging area" er mappa sem er venjulega geymd í git skránni sem geymir upplýsingar um hvað fer inn í næsta commitið þitt.
+	"Repository" Geymir skjöl og breytingaskrár af því sem þú breyttir í þessum skjölum.
+
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+	Þegar þú ert að gera eitthvað nýtt eins og að laga villu getur þú gert grein svo að þú getur breytt því eins mikið og þú villt án þess að að commit-a því í aðal kóðann.
+
+9.	Hver fann upp GIT?
+	Linus Torvalds (og fyrirtækið hans í linux) bjuggu til sitt eigið git tól sem þeir lærðu á þegar þeir notuðu gamalt forrit sem hét "BitKeeper"
+
+10.	Hvar er GIT helst notað?
+	Hjá fólki sem vinna mikið í tölvum t.d. hjá forritamenn. 
