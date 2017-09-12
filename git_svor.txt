@@ -21,7 +21,7 @@
 
 
 4. 	Hvað er útgáfustýring (e.version control)? 
-	Version control er kerfi sem tekur upp breytingar í skrám svo að þú getur farið yfir þær seinna.
+	Version control er kerfi sem tekur upp breytingar í skrám svo að þú getur farið yfir þær seinnn.
 
 5.	Hverjir eru helstu kostir við að nota GIT?
 	Það er léttara að vinna með vinnufélögum vegna þess að þú sérð hvað þeir breyttu og þar geta fólk ekki afritað vinnuna þína óvart. Allir eru með sitt eigið vinnusvæði og er betra til þess að vinna í.
