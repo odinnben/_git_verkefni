@@ -43,3 +43,7 @@
 
 10.	Hvar er GIT helst notað?
 	Hjá fólki sem vinna mikið í tölvum t.d. hjá forritamenn. 
+
+
+
+	óð
