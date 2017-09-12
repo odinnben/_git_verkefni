@@ -17,7 +17,7 @@
 3. Hver er munurinn á eftirfarandi git skipunum:
 	a) git diff = Shows changes on commits, commit and working tree etc.
 	b) git diff --staged = Changes between the index and your last commit
-	c) git diff commit1 commit2 = Compare the version between commits
+	c) git diff commit1 commit2 = Compare the version between commitsk
 
 
 4. 	Hvað er útgáfustýring (e.version control)? 
